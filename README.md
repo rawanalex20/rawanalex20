@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rawan.
-- Computer engineer and backend developer with background in different backend technologies.
-- I’m currently learning Ruby on Rail.
-- I’m looking forward to become a software engineer and collaborate in big projects.
+👋 Hi, I’m Rawan.
+- Backend developer.
+- I develop RoR applications.
+- Learning linux administration.
